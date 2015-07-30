@@ -1,17 +1,17 @@
 # springfox-requestbody-jsonproperty
 Springfox @JsonProperty generated empty Swagger 2.0 properties for @RequestBody
 
-## Contrib
+## Run
 
 Requires Java 8
 
 ./gradlew bootrun
 
 Open Swagger UI
-http://localhost:8080/swagger-ui.html
+[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
 Swagger JSON
-http://localhost:8080/v2/api-docs?group=my-api
+[http://localhost:8080/v2/api-docs?group=my-api](http://localhost:8080/v2/api-docs?group=my-api)
 
 ## Relevent Swagger JSON with Empty properties
 
