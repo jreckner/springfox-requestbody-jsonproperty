@@ -17,7 +17,7 @@ http://localhost:8080/v2/api-docs?group=my-api
 
 ```json
     {
-	"definitions": {
+        "definitions": {
         "RequestWithoutJsonCreator": {},
         "ResponseObject": {
             "required": [
