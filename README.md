@@ -13,7 +13,7 @@ http://localhost:8080/swagger-ui.html
 Swagger JSON
 http://localhost:8080/v2/api-docs?group=my-api
 
-## Relavent Swagger JSON with Empty properties
+## Relevent Swagger JSON with Empty properties
 
 ```json
     {
